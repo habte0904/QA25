@@ -16,6 +16,7 @@ public class Lab1 {
 		driver.get("https://www.facebook.com");
 		
 		// how to get title 
+		// how to get title 
 		String title = driver.getTitle();
 		System.out.println(title);
 		
